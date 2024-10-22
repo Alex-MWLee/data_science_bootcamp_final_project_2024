@@ -7,5 +7,5 @@ In the following sequence you will find the important points about my project. I
 1. Project schedules: You can [download the full schedule here](https://github.com/Alex-MWLee/data_science_bootcamp_final_project_2024/blob/main/Project_schedules_plan.xlsx) .
 2. Notebook for preparation
 3. Py File for the deploying in Streamlit: You can [view and downland the full file deloying in Streamlit here](https://github.com/Alex-MWLee/data_science_bootcamp_final_project_2024/blob/main/final_app_streamlit.py).
-4. 2 minutes features introduction video [Watch the 2-minute intro video](https://drive.google.com/file/d/12kfNUgywlSO6SiCKQ2uHV5oaFzJR9txN/view?usp=sharing)
+4. 2 minutes features introduction video [Watch the 2-minutes intro video](https://drive.google.com/file/d/12kfNUgywlSO6SiCKQ2uHV5oaFzJR9txN/view?usp=sharing)
 5. Presentation sildes: [You can view the slides hier](https://docs.google.com/presentation/d/1FgzX5JwOfsKVQG_JE6rEpWz9QtWFjubE1k12nKjA3LU/edit?usp=sharing)
